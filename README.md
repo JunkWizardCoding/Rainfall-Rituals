@@ -50,24 +50,24 @@ pip install pandas matplotlib
 Your project directory should look like this:
 
 ```
-Rainfall-Rituals/
-├── data/
-│   ├── Muenchen-Stadt/
-│   │	├── Muenchen_Stadt_1982T3.csv
-│   │	└── ...
-│   ├── Muenchen-Flughafen/
-│   └── ...
-├── graphs/
-│   ├── average_weekday_rainfall.png
-│   ├── heavy_rain_days_per_weekday.png
-│   └── yearly_total_rainfall.png
-├── AverageRainfallWeekdayScriptEn.py
-├── AverageRainfallWeekdayScriptGe.py
-├── StrongRainfallWeekdayScriptEn.py
-├── StrongRainfallWeekdayScriptGe.py
-├── YearlyHeavyRainfallScriptEn.py
-├── YearlyHeavyRainfallScriptGe.py
-└── README.md
+Rainfall-Rituals/\
+├── data/\
+│   ├── Muenchen-Stadt/\
+│   │	├── Muenchen_Stadt_1982T3.csv\
+│   │	└── ...\
+│   ├── Muenchen-Flughafen/\
+│   └── ...\
+├── graphs/\
+│   ├── average_weekday_rainfall.png\
+│   ├── heavy_rain_days_per_weekday.png\
+│   └── yearly_total_rainfall.png\
+├── AverageRainfallWeekdayScriptEn.py\
+├── AverageRainfallWeekdayScriptGe.py\
+├── StrongRainfallWeekdayScriptEn.py\
+├── StrongRainfallWeekdayScriptGe.py\
+├── YearlyHeavyRainfallScriptEn.py\
+├── YearlyHeavyRainfallScriptGe.py\
+└── README.md\
 ```
 
 Update the file paths in each script to match your system, e.g.:
