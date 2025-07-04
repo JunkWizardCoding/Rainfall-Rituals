@@ -45,11 +45,12 @@ Make sure you have Python 3.7 installed, then install the required packages:
 ```bash
 pip install pandas matplotlib
 
+```
+
 ### 2. Folder Structure
 
 Your project directory should look like this:
 
-```
 Rainfall-Rituals/\
 ├── data/\
 │   ├── Muenchen-Stadt/\
@@ -68,7 +69,7 @@ Rainfall-Rituals/\
 ├── YearlyHeavyRainfallScriptEn.py\
 ├── YearlyHeavyRainfallScriptGe.py\
 └── README.md\
-```
+
 
 Update the file paths in each script to match your system, e.g.:
 
